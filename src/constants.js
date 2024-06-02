@@ -1,0 +1,1 @@
+export const DB_NAME = "parikhit" // database name  and export it 
